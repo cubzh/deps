@@ -3,7 +3,7 @@
 # exit when any command fails
 set -e
 
-CUBZH_RELEASE_BUILD_VERSION="0.0.51_114"
+CUBZH_RELEASE_BUILD_VERSION="0.0.51_115"
 
 SCRIPT_PATH=`readlink -f "${BASH_SOURCE:-$0}"`
 SCRIPT_DIR=`dirname ${SCRIPT_PATH}`
